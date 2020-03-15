@@ -1,0 +1,23 @@
+{
+  "name": "shadowizard_bimal",
+  "version": "1.0.0",
+  "description": "Awesome border shadow for non designer ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimaleshchauhan/shadowizard_bimal.git"
+  },
+  "keywords": [
+    "shadow",
+    "bimal"
+  ],
+  "author": "bimal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bimaleshchauhan/shadowizard_bimal/issues"
+  },
+  "homepage": "https://github.com/bimaleshchauhan/shadowizard_bimal#readme"
+}
